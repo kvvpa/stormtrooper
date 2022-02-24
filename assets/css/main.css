@@ -1,0 +1,17 @@
+/* color scheme
+#e5a00d orange
+#282a2d dark grey
+#e5e4e2 light grey
+#2176ae cobalt blue
+#f95738 radish
+see: https://coolors.co/palette/e5a00d-282a2d-e5e4e2-2176ae-f95738
+*/
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 50px;
+}
